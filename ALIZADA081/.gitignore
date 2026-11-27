@@ -1,0 +1,8 @@
+# Local VS Code settings
+.vscode/
+
+# Temporary Microsoft Office files
+~$*
+
+# Environment variables
+.env
